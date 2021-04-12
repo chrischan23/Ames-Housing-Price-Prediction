@@ -1,3 +1,4 @@
+![](https://miro.medium.com/max/1050/1*PW7YItccFLn4GXN-H3nVBw.png)
 ## Ames Housing Data - Predictive Modelling 
 
 ## Contents
